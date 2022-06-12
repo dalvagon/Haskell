@@ -1,0 +1,6 @@
+{-
+Lambda calcul tipizat (STLC).
+
+
+
+-}
